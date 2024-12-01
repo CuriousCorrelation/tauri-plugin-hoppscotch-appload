@@ -1,0 +1,3 @@
+/Users/curiouscorrelation/Lab/plugin-workspace/tauri-plugin-hoppscotch-appload/devenv.lock
+/Users/curiouscorrelation/Lab/plugin-workspace/tauri-plugin-hoppscotch-appload/devenv.nix
+/Users/curiouscorrelation/Lab/plugin-workspace/tauri-plugin-hoppscotch-appload/devenv.yaml
